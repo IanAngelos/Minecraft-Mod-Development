@@ -1,0 +1,18 @@
+{
+  "parent": "builtin/generated",
+  "textures": {
+    "layer0": "darksoulsthreeweapons:item/Rapier"
+  },
+  "display": {
+    "thirdperson": {
+      "rotation": [ 0, 0, 0 ],
+      "translation": [ 0, 0, 0 ],
+      "scale": [ 0.55, 0.55, 0.55 ]
+    },
+    "firstperson": {
+      "rotation": [ 0, 0, 0 ],
+      "translation": [ 0, 0, 0 ],
+      "scale": [ 1.7, 1.7, 1.7 ]
+    }
+  }
+}

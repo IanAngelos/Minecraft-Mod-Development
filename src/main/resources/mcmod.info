@@ -1,0 +1,16 @@
+[
+{
+  "modid": "darksouls3weapons",
+  "name": "Dark Souls 3 Weapons",
+  "description": "Adds weapons from Dark Souls 3 into Minecraft",
+  "version": "$1.0",
+  "mcversion": "$1.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Ian Angelos"],
+  "credits": "Just me",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [mod_MinecraftForge]
+}
+]
